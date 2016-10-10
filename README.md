@@ -12,7 +12,7 @@ This repo is based on [bobey/docker-gitlab-ci-runner](https://github.com/bobey/d
   - [Usage](#usage-1)
   - [Custom PHP configuration](#custom-php-configuration)
   - [Development](#development)
-- [THANKS](#THANKS)
+- [THANKS](#thanks)
 
 ## Base Image
 
