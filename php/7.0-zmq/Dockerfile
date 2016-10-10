@@ -1,9 +1,9 @@
 # docker-gitlab-ci-runner-php7-zmq
 
-FROM gamerswalk/docker-gitlab-ci-runner-php7
+FROM bobey/docker-gitlab-ci-runner-php7
 MAINTAINER  Rodrigo Fandiño "rodrigo.fandino@gamerswalk.com"
 
-ENV PHP_VERSION 7.0.11
+ENV PHP_VERSION 7.0.4
 
 RUN phpenv global $PHP_VERSION
 
